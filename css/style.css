@@ -1,0 +1,118 @@
+html{
+    scroll-behavior: smooth;
+  }
+
+  body{
+    margin: 0;
+    padding: 0;
+  }
+
+#bir{
+    color: black;
+    font-size: 20px;
+}
+#iki{
+    color: black;
+    font-size: 20px;
+}
+#üç{
+    color: black;
+    font-size: 20px;
+}
+#dört{
+    color: black;
+    font-size: 20px;
+}
+#beş{
+    color: black;
+    font-size: 20px;
+}
+#altı{
+    color: black;
+    font-size: 20px;
+}
+#yedi{
+    color: black;
+    font-size: 20px;
+}
+#sekiz{
+    color: black;
+    font-size: 20px;
+}
+#dokuz{
+    color: black;
+    font-size: 20px;
+}
+#on{
+    color: black;
+    font-size: 20px;
+}
+  .gotopbtn{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: #27ae60;
+    bottom: 40px;
+    right: 50px;
+  
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 22px;
+  }
+
+  hr{
+      margin: 16px;
+      color: cornflowerblue;
+  }
+
+  h1{
+      text-align: center;
+  }
+  h2,
+  h3{
+      text-align: center;
+      color: black;
+      text-transform: uppercase;
+  }
+  .cerceve{
+      width: 1100px;
+      margin: 10px auto;
+      display: flex;
+      flex-direction: column;
+      background-color:   seashell;
+      border: 5px solid black;
+      padding: 10px;
+  }
+  .yazilar{
+      text-align: justify;
+      font-size: 18px;
+      margin-bottom: 20px;
+      border: 5px solid black;
+      padding: 10px;
+  }
+  button{
+      padding: 10px;
+      background-color: black;
+      font-size: 18px;
+      border: 1px solid black;
+      color: white;
+      letter-spacing: 2px;
+      border-radius: 5px;
+  }
+  button:hover{
+      cursor: pointer;
+      color: blue;
+      background-color: white;
+  }
+
+
+ 
+  
+
+
+
+  
+ 
+  
